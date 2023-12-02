@@ -1,5 +1,6 @@
 site_name: The Fourth Branch
-url: https://justinmchase.github.io/fourth-branch/
+site_url: https://justinmchase.github.io/fourth-branch/
+repo_url: https://github.com/justinmchase/fourth-branch
 theme:
   name: terminal
   features:
