@@ -36,7 +36,3 @@ nav:
       - Index: oversight/federal-reserve/index.md
     - Recusal:
       - Index: oversight/recusal/index.md
-
-# Things installed:
-# pip install mkdocs
-# pip install mkdocs-terminal
