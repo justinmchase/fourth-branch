@@ -1,0 +1,42 @@
+site_name: The Fourth Branch
+theme:
+  name: terminal
+  features:
+    - navigation.side.indexes
+nav:
+  - Index: index.md
+  - Amendment: amendment.md
+  - Powers:
+    - Monopolies:
+      - Index: powers/monopolies/index.md
+    - National Dividend:
+      - Index: powers/national-dividend/index.md
+    - Federal Reserve:
+      - Index: powers/federal-reserve/index.md
+    - Federal Budget:
+      - Index: powers/federal-budget/index.md
+  - Procedures:
+    - Election Process:
+      - Index: procedures/elections/index.md
+    - National Dividend:
+      - Index: procedures/national-dividend/index.md
+    - Term Limits:
+      - Index: procedures/term-limits/index.md
+  - Budget:
+    - Capital:
+      - Index: budget/capital/index.md
+    - Compensation:
+      - Index: budget/compensation/index.md
+    - Expenses:
+      - Index: budget/expenses/index.md
+  - Oversight:
+    - Congress:
+      - Index: oversight/congress/index.md
+    - Federal Reserve:
+      - Index: oversight/federal-reserve/index.md
+    - Recusal:
+      - Index: oversight/recusal/index.md
+
+# Things installed:
+# pip install mkdocs
+# pip install mkdocs-terminal
