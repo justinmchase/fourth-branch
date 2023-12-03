@@ -15,7 +15,7 @@ describes a national dividend and a hypothetical utopian society. This proposal
 is dedicated to him and his immense modern contribution to civics and Science
 Fiction.
 
-I alaso owe a lot of thanks to Chat GPT which helped me organize and summarize
+I also owe a lot of thanks to Chat GPT which helped me organize and summarize
 these ideas as well as expound upon them. Additionally the conversations of a
 few cynics and critics along the way have helped address some edge cases and bad
 directions.
