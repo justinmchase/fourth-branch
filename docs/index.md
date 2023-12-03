@@ -21,5 +21,5 @@ delivering equal benefits to every U.S. citizen.
 ## Contribute
 
 Please feel free to head on over to
-[![GitHub](./github-mark.svg)](https://github.com/justinmchase/fourth-branch) to
-discuss, recommend changes or file issues.
+[<img src="drawing.jpg" alt="drawing" width="200"/>](https://github.com/justinmchase/fourth-branch)
+to discuss, recommend changes or file issues.
