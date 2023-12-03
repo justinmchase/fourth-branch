@@ -5,7 +5,7 @@ government known as The Board of Directors and the establishment of a National
 Corporation of The United States of America and a corresponding National
 Dividend.
 
-https://justinmchase.github.io/fourth-branch/
+https://fourth-branch.us
 
 ## Attributions
 
