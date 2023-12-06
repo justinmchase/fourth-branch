@@ -25,7 +25,7 @@ semi-annually, to all Shareholders in an equal manner.
 ## Tax Free
 
 Proceeds from the National Dividend shall be considered tax-free and no tax or
-duty or garnishing shall every be applied to the dividends of the people.
+duty or garnishing shall ever be applied to the dividends of the people.
 
 ## Registration of Citizens
 
