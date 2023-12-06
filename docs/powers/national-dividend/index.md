@@ -21,6 +21,11 @@ follows:
 - These dividends are distributed regularly, for instance, annually or
   semi-annually, to all Shareholders in an equal manner.
 
+## Tax Free
+
+Proceeds from the National Dividend shall be considered tax-free and no tax or
+duty or garnishing shall every be applied to the dividends of the people.
+
 ## Registration of Citizens
 
 - The Board maintains a comprehensive and secure registry of all individuals who
