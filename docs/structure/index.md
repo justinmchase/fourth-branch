@@ -27,6 +27,6 @@
 - The odd number of board members helps to prevent voting deadlocks, ensuring
   that decision-making processes are not stymied.
 
-## Chairman of the Board
+## Board Chair
 
 - Not yet defined
